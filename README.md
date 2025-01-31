@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **michael.derrien@epitech.eu**
 
-- 📄 Know about my experiences [derrien.tech](www.derrien.tech)
+- 📄 Know about my experiences [derrien.tech](https://www.derrien.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
