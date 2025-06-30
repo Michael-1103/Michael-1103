@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to work on **Web / Software development**
 
-- 💬 I'm open for **internship**
+- 💬 I'm open for **freelance**
 
 - 📫 How to reach me **michael.derrien@epitech.eu**
 
