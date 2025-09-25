@@ -9,7 +9,7 @@
 
 - 💬 I'm open for **freelance**
 
-- 📫 How to reach me **michael.derrien@epitech.eu**
+- 📫 How to reach me **michael@derrien.tech**
 
 - 📄 Know about my experiences [derrien.tech](https://www.derrien.tech)
 
